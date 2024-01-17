@@ -70,3 +70,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+360 Image Viewer/Library/ArtifactDB
+360 Image Viewer/Library/PackageCache/com.unity.sysroot.linux-x86_64@2.0.6/data~/payload.tar.7z
+360 Image Viewer/Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@2.0.6/data~/payload.tar.7z
